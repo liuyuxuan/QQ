@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>content</key>
+		<string>在吗?你管我是谁</string>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>2011-01-01 10:28</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>有个严肃的事情需要问你</string>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>前天 10:28</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>搞得我好紧张，什么事？只要不打我就可以</string>
+		<key>icon</key>
+		<string>icon02.png</string>
+		<key>time</key>
+		<string>昨天 20:05</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你拿我手机到底干了什么事情?</string>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>没什么.╮(╯_╰)╭</string>
+		<key>icon</key>
+		<string>icon02.png</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>你是你管我是谁吗?，我又不会打你，顶多欺负一下你。你就告诉我你拿我手机到底干了什么事情?</string>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>昨天 20:07</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>发了一个说说,😊</string>
+		<key>icon</key>
+		<string>icon02.png</string>
+		<key>time</key>
+		<string>昨天 20:11</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>刚刚看到,有人赞了我的说说,我还以为发生了什么事情,吓我一跳,不过没什么事就好,不好玩,\(≧▽≦)/,可以不要玩了吗?我知道错了.</string>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>不行,哪凉快哪待着</string>
+		<key>icon</key>
+		<string>icon02.png</string>
+		<key>time</key>
+		<string>昨天 20:15</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>就不走...你要打我吗?</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>15:29</string>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>信不信我真打你,有本事你过来</string>
+		<key>icon</key>
+		<string>icon02.png</string>
+		<key>time</key>
+		<string>15:29</string>
+		<key>type</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>content</key>
+		<string>不能愉快的玩耍了</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon01.png</string>
+		<key>time</key>
+		<string>15:29</string>
+	</dict>
+</array>
+</plist>
